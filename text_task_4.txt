@@ -1,0 +1,5 @@
+Alco, 30
+Pep, 20
+Coola, 25
+Pola, 20
+Elz, 55
